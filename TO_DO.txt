@@ -1,0 +1,10 @@
+----------------------------- TO DO -----------------------------
+Una vez que todos los miembros del equipo hayan realizado estas
+tareas se marcarán como [DONE].
+Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
+-----------------------------------------------------------------
+- Investigar generación de energía solar y eólica.
+  - Funcionamiento
+  - Producción
+  - Costo
+  - Eficiencia

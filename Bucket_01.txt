@@ -1,0 +1,14 @@
+-------------------------- Documentación -------------------------
+En este archivo se registrará el progreso individual discutido en
+cada reunión de la siguiente manera:
+- Se debe incluir la fecha y el número de reunión.
+  - Dentro de la reunión, cada miembro debe registrar su progreso,
+    empezando por su nombre.
+Ejemplo:
+------------------------------------------------------------------
+Marzo 22/Reunión 0:
+- David:
+  Este proyecto busca desarrollar hardware de calidad capaz de
+  recolectar y almacenar energia (tentativamente solar y eolica).
+  Podemos utilizar arduino e implementar simulaciones con Blender
+------------------------------------------------------------------
