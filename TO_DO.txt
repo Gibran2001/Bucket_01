@@ -8,4 +8,4 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
   - Producción
   - Costo
   - Eficiencia
-- Investigar Pull request en Atom.
+- Investigar Pull, Push y Fetch en Atom.
