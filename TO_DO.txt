@@ -9,3 +9,5 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
   - Costo
   - Eficiencia
 - Investigar Pull, Push y Fetch en Atom.
+- Investigar como reciclar PVC.
+- Investigar como canalizar y almacenar el calor.

@@ -1,28 +1,30 @@
--------------------------- Documentación -------------------------
+--------------------------- Documentación --------------------------
 En este archivo se registrará el progreso individual discutido en
 cada reunión de la siguiente manera:
 - Se debe incluir la fecha y el número de reunión.
   - Dentro de la reunión, cada miembro debe registrar su progreso,
     empezando por su nombre.
 Ejemplo:
-------------------------------------------------------------------
+--------------------------------------------------------------------
 Marzo 22/Reunión 0:
 - David:
   Este proyecto busca desarrollar hardware de calidad capaz de
   recolectar y almacenar energia (tentativamente solar y eolica).
   Podemos utilizar arduino e implementar simulaciones con Blender
-------------------------------------------------------------------
+--------------------------------------------------------------------
 Marzo 26/Reunión 1:
-Pruebas.
+Hicimos pruebas con atom y las funciones de GitHub.
+Discutimos el modo de trabajo y fijamos turnos y horarios.
+Se discutieron posibles materiales, así como la forma de obtenerlos.
 - Fernando:
-  El proceso fotovoltaico es crear electricidad mediante radiación
-  en este proyecto la radiación utilizada sera solar.
-  La pila necesaria para almacenar energia proveniente del proceso
-  fotovoltaico es mínimo de 1,5 [eV].
+  El proceso fotovoltáico es crear electricidad mediante radiación
+  en este proyecto la radiación utilizada será solar.
+  La pila necesaria para almacenar energía proveniente del proceso
+  fotovoltaico es mínimo de 1.5 [eV].
 - Arturo:
-  Se analizaron las ventajas y desventajas del plástico PVC Y de 
-  la madera como posibles materiales para este proyecto. 
-  Se incluyó el impacto ambiental y huella de carbono sobre cada 
+  Analicé las ventajas y desventajas del plástico PVC y de
+  la madera como posibles materiales para este proyecto.
+  Incluí el impacto ambiental y huella de carbono sobre cada
   material.
 - David:
   Propusé links de venta para los paneles solares.
