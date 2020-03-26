@@ -14,9 +14,17 @@ Marzo 22/Reunión 0:
 ------------------------------------------------------------------
 Marzo 26/Reunión 1:
 - Fernando:
+  El proceso fotovoltaico es crear electricidad mediante radiación
+  en este proyecto la radiación utilizada sera solar.
   La pila necesaria para almacenar energia proveniente del proceso
   fotovoltaico es mínimo de 1,5 [eV].
 - Arturo:
+<<<<<<< HEAD
   Se analizaron las ventajas y desventajas del plástico PVC Y de la madera como posibles materiales para este proyecto. Se         incluyó el impacto ambiental y huella de carbono sobre cada material.
 - David:
   Propusé links de venta para los paneles solares.
+=======
+  Se analizaron las ventajas y desventajas del plástico PVC Y de la
+  madera como posibles materiales para este proyecto. 
+  Se incluyó el impacto ambiental y huella de carbono sobre cada material.
+>>>>>>> 517bd160016f7b72520dff080f56b9a0f8be84d0
