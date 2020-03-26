@@ -13,4 +13,3 @@ Marzo 22/Reunión 0:
   Podemos utilizar arduino e implementar simulaciones con Blender
 ------------------------------------------------------------------
 Marzo 26/Reunión 1:
-- Abrego: investigacion del funcionamiento de los motores stirling, asi como de las matrices de paneles solares y turbinas eolicas
