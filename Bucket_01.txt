@@ -13,6 +13,6 @@ Marzo 22/Reunión 0:
   Podemos utilizar arduino e implementar simulaciones con Blender
 ------------------------------------------------------------------
 Marzo 26/Reunión 1:
-- Fernando: 
+- Fernando:
   La pila necesaria para almacenar energia proveniente del proceso
-  fotovoltaico es de 1,5 [eV].
+  fotovoltaico es minimo de 1,5 [eV].
