@@ -13,20 +13,13 @@ Marzo 22/Reunión 0:
   Podemos utilizar arduino e implementar simulaciones con Blender
 ------------------------------------------------------------------
 Marzo 26/Reunión 1:
+Pruebas.
 - Fernando:
   El proceso fotovoltaico es crear electricidad mediante radiación
-  en este proyecto la radiación utilizada será solar.
+  en este proyecto la radiación utilizada sera solar.
   La pila necesaria para almacenar energia proveniente del proceso
   fotovoltaico es mínimo de 1,5 [eV].
-  Las celdas solares obtienen energia mediante el traspaso de
-  electrones entre silicio con diferentes electrones de valencia.
 - Arturo:
-<<<<<<< HEAD
   Se analizaron las ventajas y desventajas del plástico PVC Y de la madera como posibles materiales para este proyecto. Se         incluyó el impacto ambiental y huella de carbono sobre cada material.
 - David:
   Propusé links de venta para los paneles solares.
-=======
-  Se analizaron las ventajas y desventajas del plástico PVC Y de la
-  madera como posibles materiales para este proyecto.
-  Se incluyó el impacto ambiental y huella de carbono sobre cada material.
->>>>>>> 517bd160016f7b72520dff080f56b9a0f8be84d0
