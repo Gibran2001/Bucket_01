@@ -15,10 +15,12 @@ Marzo 22/Reunión 0:
 Marzo 26/Reunión 1:
 - Fernando:
   El proceso fotovoltaico es crear electricidad mediante radiación
-  en este proyecto la radiación utilizada sera solar.
+  en este proyecto la radiación utilizada será solar.
   La pila necesaria para almacenar energia proveniente del proceso
   fotovoltaico es mínimo de 1,5 [eV].
+  Las celdas solares obtienen energia mediante el traspaso de
+  electrones entre silicio con diferentes electrones de valencia.
 - Arturo:
   Se analizaron las ventajas y desventajas del plástico PVC Y de la
-  madera como posibles materiales para este proyecto. 
+  madera como posibles materiales para este proyecto.
   Se incluyó el impacto ambiental y huella de carbono sobre cada material.
