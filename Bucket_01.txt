@@ -12,3 +12,4 @@ Marzo 22/Reunión 0:
   recolectar y almacenar energia (tentativamente solar y eolica).
   Podemos utilizar arduino e implementar simulaciones con Blender
 ------------------------------------------------------------------
+Marzo 26/Reunión 1:
