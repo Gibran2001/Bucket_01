@@ -20,6 +20,8 @@ Pruebas.
   La pila necesaria para almacenar energia proveniente del proceso
   fotovoltaico es mínimo de 1,5 [eV].
 - Arturo:
-  Se analizaron las ventajas y desventajas del plástico PVC Y de la madera como posibles materiales para este proyecto. Se         incluyó el impacto ambiental y huella de carbono sobre cada material.
+  Se analizaron las ventajas y desventajas del plástico PVC Y de la 
+  madera como posibles materiales para este proyecto. 
+  Se incluyó el impacto ambiental y huella de carbono sobre cada material.
 - David:
   Propusé links de venta para los paneles solares.
