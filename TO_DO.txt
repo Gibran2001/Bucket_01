@@ -1,6 +1,7 @@
 ----------------------------- TO DO -----------------------------
-Una vez que todos los miembros del equipo hayan realizado estas
-tareas se marcarán como [DONE].
+Se marcarán como [DONE] los elementos que se cumplan de manera
+satisfactoria entre los participantes de la última reunión que
+se lleve a cabo.
 Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 -----------------------------------------------------------------
 - Investigar generación de energía solar y eólica.
