@@ -13,4 +13,5 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
   - Eficiencia
 - [Dismissed] Investigar Pull, Push y Fetch en Atom.
 - Investigar como reciclar PVC.
-- Investigar como canalizar y almacenar el calor.
+- [Dismissed] Investigar como canalizar y almacenar el calor.
+- [DONE] Investigar como canalizar y reutilizar calor.
