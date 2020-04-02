@@ -2,6 +2,8 @@
 Se marcarán como [DONE] los elementos que se cumplan de manera
 satisfactoria entre los participantes de la última reunión que
 se lleve a cabo.
+Se marcarán como [Dismissed] los elementos que se consideren no
+necesarios o fundamentales.
 Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 -----------------------------------------------------------------
 - Investigar generación de energía solar y eólica.
@@ -9,6 +11,6 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
   - Producción
   - Costo
   - Eficiencia
-- Investigar Pull, Push y Fetch en Atom.
+- [Dismissed] Investigar Pull, Push y Fetch en Atom.
 - Investigar como reciclar PVC.
 - Investigar como canalizar y almacenar el calor.
