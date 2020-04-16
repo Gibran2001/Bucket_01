@@ -48,3 +48,9 @@ Compartimos conocimiento de la generación de energia solar y eólica.
   eólica y planteé 2 arreglos posibles para optimizar el sistema.
   Compartí mi investigación sobre Two phase immersion cooling
   systems.
+- Diego: Comente las dos vias existentes (metodos quimicos y
+  metodos mecanicos) por las cuales es posible el reciclaje de 
+  PVC. Propuse el aluminio o las resinas epoxy como material 
+  para las aspas en las turbinas eolicas aunque queda por comprobar
+  la viabilidad de ambos materiales. 
+  
