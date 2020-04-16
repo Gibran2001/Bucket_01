@@ -6,12 +6,20 @@ Se marcarán como [Dismissed] los elementos que se consideren no
 necesarios o fundamentales.
 Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 -----------------------------------------------------------------
-- Investigar generación de energía solar y eólica.
+- [DONE] Investigar generación de energía solar y eólica.
   - Funcionamiento
   - Producción
   - Costo
   - Eficiencia
 - [Dismissed] Investigar Pull, Push y Fetch en Atom.
-- Investigar como reciclar PVC.
+- [Dismissed] Investigar como reciclar PVC.
 - [Dismissed] Investigar como canalizar y almacenar el calor.
 - [DONE] Investigar como canalizar y reutilizar calor.
+- Investigar materiales ligeros que sean resistentes a distintas
+  condiciones climáticas para las helices de las turbinas.
+- Investigar como potenciar el movimiento del eje mayor a un
+  eje menor utilizando engranes.
+- Diseñar sistemas de refleccion y refractación que permitan
+  canalizar una gran cantidad de luz en un solo punto.
+- Analizar la posibilidad de implementar varias turbinas o 1
+  (Depende del material de las turbinas)
