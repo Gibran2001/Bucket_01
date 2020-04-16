@@ -41,3 +41,10 @@ Se discutieron normas de trabajo para el equipo.
   Propuse un modelo para convertir el calor en energía mecánica.
 --------------------------------------------------------------------
 Abril 16/Reunión 3:
+Repasamos las ideas expuestas en reuniones anteriores.
+Determinamos que el uso de PET reciclado no es viable.
+Compartimos conocimiento de la generación de energia solar y eólica.
+- David: Propuse turbinas de eje vertical para aprovechar la energía
+  eólica y planteé 2 arreglos posibles para optimizar el sistema.
+  Compartí mi investigación sobre Two phase immersion cooling
+  systems.
