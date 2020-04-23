@@ -55,3 +55,7 @@ Compartimos conocimiento de la generación de energia solar y eólica.
   la viabilidad de ambos materiales.
 -------------------------------------------------------------------
 Abril 23/Reunión 4:
+- Gibrán: Investigué las ventajas del aluminio como un material que 
+  puede ser usado en diferentes partes del dispositivo y sobre las 
+  reducciones en engranajes para cambiar fuerza por velocidad y generar
+  una corriente eléctrica.
